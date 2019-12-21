@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission 4</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="tab_text_3">♥Movie</string>
+    <string name="tab_text_4">♥Tv Show</string>
+
+    <string name="movies_name">Movie Name</string>
+    <string name="tv_name">Tv Show Name</string>
+    <string name="description">Description</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="release">release</string>
+    <string name="rating">rating</string>
+    <string name="image_rating">star</string>
+    <string name="language_code">en-US</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+    <string name="add_favorite">Add To Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+</resources>
